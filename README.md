@@ -1,8 +1,5 @@
 # grade_analyzer
 ---
-
-# Student Grade Analyzer
-
 A modular Python script that processes student test scores, calculates averages, assigns letter grades, and generates a formatted performance report.
 
 ## 🚀 Features
